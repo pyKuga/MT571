@@ -103,7 +103,7 @@ function CheckData(Y,ny,ns)
 end
 
 
-#THIS EXCERPT OF CODE WAS TAKEN FROM MY ORIGINAL LIBRARY SYSID.JL - https://github.com/pyKuga/MT571/blob/main/sysid.jl
+#THIS EXCERPT OF CODE WAS TAKEN FROM MY ORIGINAL LIBRARY SYSID.JL
 
 #Hankel pré-determinado
 #np ordem do polinimio
